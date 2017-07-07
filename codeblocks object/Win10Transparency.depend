@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1499309269 source:c:\users\rytia\documents\codeblockscode\win10transparency\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<io.h>
+
